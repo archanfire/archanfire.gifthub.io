@@ -1,0 +1,61 @@
+.michael {
+	height: 100%;
+	width: 100%;
+}
+
+.title {
+	font-family: calibri;
+	text-align: center;
+	color: white;
+}
+
+.little-text {
+	font-family: calibri;
+	text-align: center;
+	color: white;
+}
+
+.card-title {
+	font-family: calibri;
+	text-align: center;
+	color: white;
+}
+
+.info-text {
+	font-family: calibri;
+	color: white;
+	text-align: center;
+}
+
+body {
+	background:url("img/stars.jpg") no-repeat center center fixed;
+	background-size:cover;
+	}
+
+.card {
+	background-color: #252525;
+}
+
+.title1 {
+	font-family: calibri;
+	color: white;
+	text-align: center;
+}
+
+.title2 {
+	font-family: calibri;
+	color: white;
+	text-align: center;
+}
+
+.title3 {
+	font-family: calibri;
+	color: white;
+	text-align: center;
+}
+
+.title4 {
+	font-family: calibri;
+	color: white;
+	text-align: center;
+}
