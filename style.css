@@ -27,8 +27,12 @@
 	text-align: center;
 }
 
+.test:hover {
+	font-size:30px;
+}
+
 body {
-	background:url("img/stars.jpg") no-repeat center center fixed;
+	background:url("img/deer.jpg") no-repeat center center fixed;
 	background-size:cover;
 	}
 
@@ -37,6 +41,12 @@ body {
 }
 
 .title1 {
+	font-family: calibri;
+	color: white;
+	text-align: center;
+}
+
+.text1 {
 	font-family: calibri;
 	color: white;
 	text-align: center;
@@ -59,3 +69,16 @@ body {
 	color: white;
 	text-align: center;
 }
+
+.title5 {
+	font-family: calibri;
+	color: white;
+	text-align: center;
+}
+
+.reverie {
+	font-family: calibri;
+	color: white;
+	text-align:center;
+}
+
